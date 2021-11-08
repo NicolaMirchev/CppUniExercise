@@ -1,0 +1,3 @@
+﻿  Cpp_Project.cpp
+C:\Users\nicol\source\repos\Cpp_Project\Cpp_Project\Cpp_Project.cpp(33,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Cpp_Project.vcxproj -> C:\Users\nicol\source\repos\Cpp_Project\Debug\Cpp_Project.exe
